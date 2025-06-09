@@ -53,9 +53,9 @@ This project is a Telegram chatbot built using [aiogram](https://docs.aiogram.de
 
 After completing the setup steps above, you can start the bot with:
 
-    ```sh
+   ```sh
     python main.py
-    ```
+   ```
 
 The bot will start polling for messages on Telegram. Make sure your `.env` file is properly configured before running.
 
